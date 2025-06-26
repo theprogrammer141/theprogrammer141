@@ -1,29 +1,114 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Hi there, I'm Abdullah 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theprogrammer141&label=Profile%20views&color=0e75b6&style=flat" alt="theprogrammer141" /> </p>
-
-- 🔭 I’m currently working on **Front-End Development**
-
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on **Freelance projects**
-
-- 📫 How to reach me **abtech141@gmail.com**
-
-- ⚡ Fun fact **I am a human!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abdullah_k141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdullah_k141" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad abdullah" height="30" width="40" /></a>
-<a href="https://instagram.com/ab._.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab._.codes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/the_debugger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="the_debugger" height="30" width="40" /></a>
+<p align="center">
+  🚀 Frontend Developer | 🌐 JavaScript Enthusiast | ⚛️ React Fanboy
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Lover;JavaScript+Ninja;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing animation" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theprogrammer141&show_icons=true&locale=en&layout=compact" alt="theprogrammer141" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theprogrammer141&show_icons=true&locale=en" alt="theprogrammer141" /></p>
+<!-- Mode Toggle -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-Dark🌙-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mode-Light☀️-F7F7F7?style=for-the-badge&logo=github&logoColor=black" />
+</p>
+
+---
+
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently building web apps with **React.js**
+- 🌱 Sharpening my skills in **JavaScript** and diving deeper into **React.js**
+- 🛠️ Passionate about crafting responsive UIs and clean code
+- 💬 Ask me about **frontend development, React.js etc.**
+- ⚡ Fun fact: **I am a human!**
+
+---
+
+### 🧰 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+<!-- Loruki Project Card -->
+<p>
+  <b>💡 Loruki Hosting Website</b><br>
+  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-green?style=flat-square&logo=netlify&link=https://loruki-cloud-hosting-platform101.netlify.app" />
+  <br>
+  🔗 <a href="https://loruki-cloud-hosting-platform101.netlify.app" target="_blank">Live Site</a> • 
+  <a href="https://github.com/theprogrammer141/LORUKI-WEBSITE" target="_blank">GitHub Repo</a><br>
+  🛠️ HTML | CSS
+</p>
+
+<!-- Growth SaaS Project Card -->
+<p>
+  <b>📈 Growth SaaS Website</b><br>
+  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-blue?style=flat-square&logo=netlify&link=https://growth-saas-website.netlify.app" />
+  <br>
+  🔗 <a href="https://growth-saas-website.netlify.app" target="_blank">Live Site</a> • 
+  <a href="https://github.com/theprogrammer141/Growth-SaaS-Website" target="_blank">GitHub Repo</a><br>
+  🛠️ HTML | CSS | JS
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theprogrammer141&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprogrammer141&theme=tokyonight" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprogrammer141&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprogrammer141&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://https://www.linkedin.com/in/muhammad-abdullah-872b74278/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abtech141@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### ✨ Quote of the Day
+
+> _“Programs must be written for people to read, and only incidentally for machines to execute.”_  
+> – Harold Abelson
+
+---
+
+### 🌍 Visitor Stats
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=theprogrammer141&label=Profile%20Views&color=blue&style=flat-square" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/theprogrammer141&count_bg=%23B7E4C7&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false"/>
+</p>
