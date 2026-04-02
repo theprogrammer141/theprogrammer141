@@ -28,10 +28,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building web apps with **React.js**
-- 🌱 Sharpening my skills in **JavaScript** and diving deeper into **React.js**
+- 🔭 Currently building web apps with **JavaScript**
+- 🌱 Sharpening my skills in **JavaScript** and diving deeper
 - 🛠️ Passionate about crafting responsive UIs and clean code
-- 💬 Ask me about **frontend development, React.js etc.**
+- 💬 Ask me about **frontend development, JavaScript etc.**
 - ⚡ Fun fact: **I am a human!**
 
 ---
@@ -51,21 +51,21 @@
 
 <!-- Loruki Project Card -->
 <p>
-  <b>💡 Loruki Hosting Website</b><br>
-  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-green?style=flat-square&logo=netlify&link=https://loruki-cloud-hosting-platform101.netlify.app" />
+  <b>💡 Single Page Developer Portfolio</b><br>
+  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-green?style=flat-square&logo=netlify&link=https://muhammad-abdullahdev.netlify.app/" />
   <br>
-  🔗 <a href="https://loruki-cloud-hosting-platform101.netlify.app" target="_blank">Live Site</a> • 
-  <a href="https://github.com/theprogrammer141/LORUKI-WEBSITE" target="_blank">GitHub Repo</a><br>
-  🛠️ HTML | CSS
+  🔗 <a href="https://muhammad-abdullahdev.netlify.app/" target="_blank">Live Site</a> • 
+  <a href="https://github.com/theprogrammer141/Single-Page-Developer-Portfolio" target="_blank">GitHub Repo</a><br>
+  🛠️ HTML | CSS | JS
 </p>
 
 <!-- Growth SaaS Project Card -->
 <p>
-  <b>📈 Growth SaaS Website</b><br>
-  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-blue?style=flat-square&logo=netlify&link=https://growth-saas-website.netlify.app" />
+  <b>📈 E-Commerce Product Page</b><br>
+  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-blue?style=flat-square&logo=netlify&link=https://e-commerce-product-page1.netlify.app/" />
   <br>
-  🔗 <a href="https://growth-saas-website.netlify.app" target="_blank">Live Site</a> • 
-  <a href="https://github.com/theprogrammer141/Growth-SaaS-Website" target="_blank">GitHub Repo</a><br>
+  🔗 <a href="https://e-commerce-product-page1.netlify.app/" target="_blank">Live Site</a> • 
+  <a href="https://github.com/theprogrammer141/e-commerce-product-page" target="_blank">GitHub Repo</a><br>
   🛠️ HTML | CSS | JS
 </p>
 
