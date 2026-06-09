@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abdullah 👋</h1>
 
 <p align="center">
-  🚀 Frontend Developer | 🌐 JavaScript Enthusiast | ⚛️ React Fanboy
+  🚀 MERN Stack Developer | 🌐 JavaScript Enthusiast | ⚛️ React Fanboy
 </p>
 
 <!-- Typing Animation -->
