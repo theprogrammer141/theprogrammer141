@@ -6,7 +6,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Software+Engineering+UGRAD;JavaScript+Ninja;React.js+Enthusiast;Always+Learning+New+Things" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=FullStack+Developer;Software+Engineering+UGRAD;JavaScript+Ninja;React.js+Enthusiast;Always+Learning+New+Things" alt="Typing animation" />
 </p>
 
 ---
