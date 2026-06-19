@@ -51,21 +51,21 @@
 
 <!-- Loruki Project Card -->
 <p>
-  <b>💡 Single Page Developer Portfolio</b><br>
-  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-green?style=flat-square&logo=netlify&link=https://muhammad-abdullahdev.netlify.app/" />
+  <b>OpticVerse - Eyewear Ecommerce Showcase</b><br>
+  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-green?style=flat-square&logo=netlify&link=https://opticverse-101.netlify.app/" />
   <br>
-  🔗 <a href="https://muhammad-abdullahdev.netlify.app/" target="_blank">Live Site</a> • 
-  <a href="https://github.com/theprogrammer141/Single-Page-Developer-Portfolio" target="_blank">GitHub Repo</a><br>
-  🛠️ HTML | CSS | JS
+  🔗 <a href="https://opticverse-101.netlify.app/" target="_blank">Live Site</a> • 
+  <a href="https://github.com/theprogrammer141/OpticVerse" target="_blank">GitHub Repo</a><br>
+  🛠️ REACT | NODE | MUI | MONGODB
 </p>
 
 <!-- Growth SaaS Project Card -->
 <p>
-  <b>📈 E-Commerce Product Page</b><br>
-  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-blue?style=flat-square&logo=netlify&link=https://e-commerce-product-page1.netlify.app/" />
+  <b>WeatherNow - Your weather forecast</b><br>
+  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-blue?style=flat-square&logo=netlify&link=https://weather-now-101.netlify.app/" />
   <br>
-  🔗 <a href="https://e-commerce-product-page1.netlify.app/" target="_blank">Live Site</a> • 
-  <a href="https://github.com/theprogrammer141/e-commerce-product-page" target="_blank">GitHub Repo</a><br>
+  🔗 <a href="https://weather-now-101.netlify.app/" target="_blank">Live Site</a> • 
+  <a href="https://github.com/theprogrammer141/Weather-Now" target="_blank">GitHub Repo</a><br>
   🛠️ HTML | CSS | JS
 </p>
 
