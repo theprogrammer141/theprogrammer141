@@ -1,121 +1,168 @@
-<h1 align="center">Hi there, I'm Abdullah 👋</h1>
+<h1 align="center">Hi, I'm Abdullah 👋</h1>
 
 <p align="center">
-  🚀 MERN Stack Developer | 🌐 JavaScript Enthusiast | ⚛️ React Fanboy
+  <strong>Full-Stack Developer | React.js | Node.js | AI Integration</strong>
 </p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=FullStack+Developer;Software+Engineering+UGRAD;JavaScript+Ninja;React.js+Enthusiast;Always+Learning+New+Things" alt="Typing animation" />
-</p>
-
----
-
-<!-- Mode Toggle -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Mode-Dark🌙-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mode-Light☀️-F7F7F7?style=for-the-badge&logo=github&logoColor=black" />
-</p>
-
----
-
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Coding Animation" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 Currently building web apps with **JavaScript**
-- 🌱 Sharpening my skills in **JavaScript** and diving deeper
-- 🛠️ Passionate about crafting responsive UIs and clean code
-- 💬 Ask me about **frontend development, JavaScript etc.**
-- ⚡ Fun fact: **I am a human!**
-
----
-
-### 🧰 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-<!-- Loruki Project Card -->
-<p>
-  <b>OpticVerse - Eyewear Ecommerce Showcase</b><br>
-  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-green?style=flat-square&logo=netlify&link=https://opticverse-101.netlify.app/" />
-  <br>
-  🔗 <a href="https://opticverse-101.netlify.app/" target="_blank">Live Site</a> • 
-  <a href="https://github.com/theprogrammer141/OpticVerse" target="_blank">GitHub Repo</a><br>
-  🛠️ REACT | NODE | MUI | MONGODB
-</p>
-
-<!-- Growth SaaS Project Card -->
-<p>
-  <b>WeatherNow - Your weather forecast</b><br>
-  <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-blue?style=flat-square&logo=netlify&link=https://weather-now-101.netlify.app/" />
-  <br>
-  🔗 <a href="https://weather-now-101.netlify.app/" target="_blank">Live Site</a> • 
-  <a href="https://github.com/theprogrammer141/Weather-Now" target="_blank">GitHub Repo</a><br>
-  🛠️ HTML | CSS | JS
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theprogrammer141&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theprogrammer141&theme=tokyonight" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprogrammer141&layout=compact&theme=tokyonight" width="50%" />
+  I build modern web applications, backend systems, and AI-powered products.
 </p>
-
----
-
-### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprogrammer141&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-872b74278/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-872b74278/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abtech141@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/abdullah_k141" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://github.com/theprogrammer141">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ✨ Quote of the Day
+## 👨‍💻 About Me
 
-> _“Programs must be written for people to read, and only incidentally for machines to execute.”_  
-> – Harold Abelson
+I'm a Software Engineering undergraduate and Full-Stack Developer focused on building reliable, user-centered software.
+
+My primary interests include **React.js, Next.js, Node.js, backend development, databases, and AI-powered applications**. I enjoy turning ideas into functional products and continuously improving my understanding of software architecture, APIs, and problem solving.
+
+* 🚀 Building full-stack and AI-powered applications
+* ⚛️ Working with React.js and Next.js
+* 🧠 Exploring AI integration and intelligent applications
+* ⚙️ Developing backend services and REST APIs
+* 🗄️ Working with SQL and NoSQL databases
+* 📚 Strengthening my Data Structures & Algorithms and software engineering fundamentals
+* 🤝 Open to collaboration and interesting software projects
 
 ---
 
-### 🌍 Visitor Stats
+## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=theprogrammer141&label=Profile%20Views&color=blue&style=flat-square" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/theprogrammer141&count_bg=%23B7E4C7&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false"/>
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anime.js-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Bits-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### AI & Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🦷 SmileSight AI
+
+**AI-powered dental pre-screening and patient triage application**
+
+SmileSight AI combines multimodal AI analysis with a clinical workflow to help organize patient intake, dental image analysis, treatment planning, and provider review.
+
+**Highlights**
+
+* 🤖 Multimodal dental image and symptom analysis using Google Gemini
+* 📋 AI-generated pre-screening results and severity assessment
+* 💬 Context-aware AI assistant for patient questions
+* 🩺 Provider workbench for reviewing patient information and AI-generated clinical briefs
+* 💰 Treatment selection and cost estimation
+* 📄 Print-ready treatment proposals
+* 📊 Practice impact and analytics dashboard
+* 🔐 Server-side handling of AI API credentials
+* 🎨 Responsive interface with dark/light themes and animations
+
+**Tech Stack:** `Next.js` `TypeScript` `React` `Tailwind CSS` `Framer Motion` `Google Gemini`
+
+<p>
+  <a href="https://github.com/theprogrammer141/SmileSight-AI">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://smile-sight-ai-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚦 Event & Traffic Monitoring System
+
+**Backend event monitoring and logging platform**
+
+A Node.js and Express-based backend system designed for capturing, categorizing, querying, and monitoring application and system events.
+
+**Highlights**
+
+* 📡 Event ingestion through REST APIs
+* 🏷️ Event categorization and severity levels
+* 🔍 Filtering and paginated event queries
+* 🗄️ MongoDB persistence with Mongoose
+* 🔐 JWT and bcrypt authentication infrastructure
+* ❤️ Health monitoring endpoint
+* 🧩 Modular backend architecture
+* 🛠️ ESLint and Prettier for code quality
+* 🔮 Architecture prepared for future background jobs and queue-based processing
+
+**Tech Stack:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcrypt` `REST API`
+
+<p>
+  <a href="https://github.com/theprogrammer141/event-and-traffic-monitoring-system">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Node.js and backend architecture
+* PostgreSQL and relational database design
+* Data Structures & Algorithms
+* AI-powered application development
+* API design and system architecture
+* Scalable and maintainable software development
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-872b74278/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abtech141@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abtech141%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Build with purpose. Learn continuously. Solve real problems.</i>
+</p>
+
