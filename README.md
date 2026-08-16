@@ -1,168 +1,167 @@
-<h1 align="center">Hi, I'm Abdullah 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-Stack Developer | React.js | Node.js | AI Integration</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:14B8A6&height=200&section=header&text=Muhammad%20Abdullah&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Integration%20%7C%20Founder%20@AUTOM8IX%20Solutions&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  I build modern web applications, backend systems, and AI-powered products.
-</p>
+<a href="https://www.linkedin.com/in/muhammad-abdullah-872b74278/">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-powered+web+products;React.js+%7C+Next.js+%7C+Node.js;Co-Founder+%40AUTOM8IX+Solutions;Turning+ideas+into+shipped+software&font=Fira+Code&center=true&width=560&height=45&color=14B8A6&vCenter=true&size=22" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-872b74278/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abtech141@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/theprogrammer141">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/muhammad-abdullah-872b74278/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abtech141@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/theprogrammer141">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=theprogrammer141&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering undergraduate and Full-Stack Developer focused on building reliable, user-centered software.
+I'm a Software Engineering undergraduate (final year) and Full-Stack Developer focused on building reliable, user-centered software and founder of **AUTOM8IX Solutions**, a small agency building AI-powered web products & automation solutions.
 
-My primary interests include **React.js, Next.js, Node.js, backend development, databases, and AI-powered applications**. I enjoy turning ideas into functional products and continuously improving my understanding of software architecture, APIs, and problem solving.
+My primary interests include **React.js, Next.js, Node.js, backend systems, databases, and AI-integrated applications**. I enjoy turning ideas into functional products and continuously sharpening my understanding of software architecture, APIs, and problem solving.
 
-* 🚀 Building full-stack and AI-powered applications
-* ⚛️ Working with React.js and Next.js
-* 🧠 Exploring AI integration and intelligent applications
-* ⚙️ Developing backend services and REST APIs
-* 🗄️ Working with SQL and NoSQL databases
-* 📚 Strengthening my Data Structures & Algorithms and software engineering fundamentals
-* 🤝 Open to collaboration and interesting software projects
+```yaml
+name: Muhammad Abdullah
+role: Full-Stack Developer & Co-Founder @ AUTOM8IX Solutions
+focus: [React.js, Next.js, Node.js, AI Integration, REST APIs]
+currently_building: AI-Powered Event & Traffic Monitoring System for web apps
+currently_learning: [PostgreSQL, System Design, Data Structures & Algorithms]
+fun_fact: I treat documentation as the single source of truth 📄
+```
 
----
+<br/>
 
 ## 🧰 Tech Stack
 
-### Frontend
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anime.js-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Bits-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+**Frontend**
 
-### Backend & Databases
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+**Backend & Databases**
 
-### AI & Developer Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
 
-<p>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+**AI & Developer Tools**
+ 
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" height="48" title="Google Gemini" />
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude-code/default.svg" height="48" title="Claude Code" alt="Claude Code" />
+</div>
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
-### 🦷 SmileSight AI
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**AI-powered dental pre-screening and patient triage application**
+### 🦷 [SmileSight AI](https://github.com/theprogrammer141/SmileSight-AI)
 
-SmileSight AI combines multimodal AI analysis with a clinical workflow to help organize patient intake, dental image analysis, treatment planning, and provider review.
+**AI-powered dental pre-screening & patient triage app**
 
-**Highlights**
+Combines multimodal AI analysis with a clinical workflow to organize patient intake, dental image analysis, treatment planning, and provider review.
 
-* 🤖 Multimodal dental image and symptom analysis using Google Gemini
-* 📋 AI-generated pre-screening results and severity assessment
-* 💬 Context-aware AI assistant for patient questions
-* 🩺 Provider workbench for reviewing patient information and AI-generated clinical briefs
-* 💰 Treatment selection and cost estimation
-* 📄 Print-ready treatment proposals
-* 📊 Practice impact and analytics dashboard
-* 🔐 Server-side handling of AI API credentials
-* 🎨 Responsive interface with dark/light themes and animations
+- 🤖 Multimodal image + symptom analysis (Google Gemini)
+- 📋 AI-generated pre-screening & severity assessment
+- 🩺 Provider workbench with AI-generated clinical briefs
+- 💰 Treatment selection with cost estimation
+- 📊 Practice impact & analytics dashboard
 
-**Tech Stack:** `Next.js` `TypeScript` `React` `Tailwind CSS` `Framer Motion` `Google Gemini`
+`Next.js` `TypeScript` `React` `Tailwind CSS` `Framer Motion` `Gemini`
 
-<p>
-  <a href="https://github.com/theprogrammer141/SmileSight-AI">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://smile-sight-ai-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/theprogrammer141/SmileSight-AI">
+  <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://smile-sight-ai-seven.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🚦 Event & Traffic Monitoring System
+### 🚦 [Event & Traffic Monitoring System](https://github.com/theprogrammer141/event-and-traffic-monitoring-system)
 
-**Backend event monitoring and logging platform**
+**Backend event monitoring & logging platform**
 
-A Node.js and Express-based backend system designed for capturing, categorizing, querying, and monitoring application and system events.
+A Node.js + Express backend for capturing, categorizing, querying, and monitoring application and system events.
 
-**Highlights**
+- 📡 Event ingestion via REST APIs
+- 🏷️ Categorization & severity levels
+- 🔍 Filtering with paginated queries
+- 🔐 JWT + bcrypt authentication
+- 🔮 Architecture ready for queue-based processing
 
-* 📡 Event ingestion through REST APIs
-* 🏷️ Event categorization and severity levels
-* 🔍 Filtering and paginated event queries
-* 🗄️ MongoDB persistence with Mongoose
-* 🔐 JWT and bcrypt authentication infrastructure
-* ❤️ Health monitoring endpoint
-* 🧩 Modular backend architecture
-* 🛠️ ESLint and Prettier for code quality
-* 🔮 Architecture prepared for future background jobs and queue-based processing
+`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `REST API`
 
-**Tech Stack:** `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcrypt` `REST API`
+<a href="https://github.com/theprogrammer141/event-and-traffic-monitoring-system">
+  <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-<p>
-  <a href="https://github.com/theprogrammer141/event-and-traffic-monitoring-system">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=theprogrammer141&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theprogrammer141&theme=tokyonight&hide_border=true&background=0D1117&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprogrammer141&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=c9d1d9" width="48%" />
+
+</div>
+
+<br/>
 
 ## 📚 Currently Learning
 
-* Advanced Node.js and backend architecture
-* PostgreSQL and relational database design
-* Data Structures & Algorithms
-* AI-powered application development
-* API design and system architecture
-* Scalable and maintainable software development
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Advanced_Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Design-14B8A6?style=for-the-badge&logo=architecture&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_App_Dev-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
+</div>
+
+<br/>
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-872b74278/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abtech141@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abtech141%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Build with purpose. Learn continuously. Solve real problems.</i>
-</p>
+<a href="https://www.linkedin.com/in/muhammad-abdullah-872b74278/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abtech141@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abtech141%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/theprogrammer141">
+  <img src="https://img.shields.io/badge/GitHub-theprogrammer141-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
+<br/><br/>
+
+<i>Build with purpose. Learn continuously. Solve real problems.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0F172A&height=100&section=footer" width="100%"/>
+
+</div>
